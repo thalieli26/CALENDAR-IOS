@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20250405T163000Z
+DTEND:20250405T193000Z
+SUMMARY:Boda de Alberto & Vaneza 💍
+DESCRIPTION:Muchas gracias por acompañarnos en este día tan importante para nosotros 💖
+LOCATION:Lugar del evento
+END:VEVENT
+END:VCALENDAR
