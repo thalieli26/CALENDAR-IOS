@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lovely Digital//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boda-milagros-martos-20250301
+DTSTART:20250301T150000Z
+DTEND:20250301T150000Z
+SUMMARY:Boda de Milagros & Martos 💍
+DESCRIPTION:Muchas gracias por acompañarnos en este día tan especial.
+LOCATION:
+END:VEVENT
+END:VCALENDAR
