@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lovely Digital//Boda de Paola y Brayan//ES
+BEGIN:VEVENT
+UID:boda-paola-brayan-20250509T100000
+DTSTAMP:20250320T000000Z
+DTSTART:20250509T100000Z
+DTEND:20250509T220000Z
+SUMMARY:Boda de Paola & Brayan 💍
+DESCRIPTION:Muchas gracias por acompañarnos en este día tan especial ♡
+LOCATION:
+END:VEVENT
+END:VCALENDAR
