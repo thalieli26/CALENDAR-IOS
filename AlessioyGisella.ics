@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TuEvento//Calendario Boda//IT
+BEGIN:VEVENT
+UID:20251108T183000Z-001@tuevento.com
+DTSTAMP:20250606T000000Z
+DTSTART:20251108T183000Z
+DTEND:20251108T235900Z
+SUMMARY:Nozze di Alessio & Gisella 💍
+DESCRIPTION:Grazie mille per essere con noi in questo giorno così speciale ♥
+LOCATION:Luogo della cerimonia
+END:VEVENT
+END:VCALENDAR
