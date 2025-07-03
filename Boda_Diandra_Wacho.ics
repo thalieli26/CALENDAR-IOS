@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DiandraWachoBoda//EN
+BEGIN:VEVENT
+UID:boda-diandra-wacho-20250906@example.com
+DTSTAMP:20250703T220000Z
+DTSTART:20250906T223000Z
+DTEND:20250907T080000Z
+SUMMARY:Boda de Diandra & Wacho 💍
+DESCRIPTION:Muchas gracias por acompañarnos en este día tan especial ♡
+LOCATION:Ecuador
+END:VEVENT
+END:VCALENDAR
