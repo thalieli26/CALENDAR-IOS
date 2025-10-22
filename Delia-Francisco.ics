@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tu Organización//Evento Boda Delia & Francisco//ES
+BEGIN:VEVENT
+UID:20251213-boda-delia-francisco@tuDominio.com
+DTSTAMP:20251213T170000Z
+DTSTART:20251213T230000Z
+DTEND:20251214T045900Z
+SUMMARY:Boda de Delia & Francisco
+DESCRIPTION:Muchas gracias por acompañarnos en este día tan especial
+LOCATION: (Opcional: agregar lugar)
+END:VEVENT
+END:VCALENDAR
