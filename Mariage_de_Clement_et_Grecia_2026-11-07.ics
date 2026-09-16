@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lovely Digital//FR
+BEGIN:VEVENT
+SUMMARY:Mariage de Clément & Grecia
+DESCRIPTION:Merci beaucoup de nous accompagner pour cette journée si spéciale ♡
+DTSTART;TZID=Europe/Paris:20261107T013000
+DTEND;TZID=Europe/Paris:20261107T130000
+BEGIN:VALARM
+TRIGGER:-P1D
+DESCRIPTION:Rappel de l’événement
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
