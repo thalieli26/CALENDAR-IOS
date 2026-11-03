@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Boda de Paola & Eduardo
 DESCRIPTION:Muchas gracias por acompañarnos en este día tan especial ♡
 DTSTART;TZID=America/Lima:20261107T170000
-DTEND;TZID=America/Lima:20261108T040000
+DTEND;TZID=America/Lima:20261108T000000
 BEGIN:VALARM
 TRIGGER:-P1D
 DESCRIPTION:Recordatorio del evento
